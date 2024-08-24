@@ -2,7 +2,9 @@
 
 ---
 ### Description
-This project is the final project for the Data Mining and Knowledge Discovery course, where I used Python to develop models to recognize the emotions of Twitter messages (including anger, fear, joy, love, sadness, and surprise). First, I used wordcloud to find out the common words used in each category. Next, I trained multiple deep learning models to recognize emotion in Twitter messages. Moreover, I tried to do Few-shot Prompting on LLM to perform this task.
+This project is the final project for the Data Mining and Knowledge Discovery course, where I used Python to develop models for recognizing emotions in Twitter messages, including anger, fear, joy, love, sadness, and surprise. The analysis began with generating word clouds to identify common words associated with each emotion category.
+
+Subsequently, I trained multiple deep learning models to accurately classify emotions in the Twitter messages. In addition to these models, I experimented with Few-shot Prompting on large language models (LLMs) to explore its effectiveness in emotion recognition.
 
 ---
 ### Built With
